@@ -14,4 +14,7 @@ public class Wish {
 	public String mn() {
 		return "Hi";
 	}
+	public int mo(){
+		return 10;
+	}
 }
