@@ -11,4 +11,7 @@ public class Wish {
 	public String getGenerate(int sid) {
 		return "Hello mr."+sid;
 	}
+	public String mn() {
+		return "Hi";
+	}
 }
