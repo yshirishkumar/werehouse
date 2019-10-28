@@ -16,4 +16,7 @@ public class Wish {
 	public int mo(){
 		return 10;
 	}
+	public Double sal(){
+		return 2.4;
+	}
 }
